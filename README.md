@@ -1,9 +1,36 @@
-## Hey there! I'm Kelvin - aka Principal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kelvin-njoro-8abab4210/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/KelvinPrincipal">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+</div>
+<img src="https://komarev.com/ghpvc/?username=principalkelvo&style=flat-square&color=blue" alt=""/>
+  </div>
+
+# Hey there! I'm Kelvin - aka Principal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### I'm a Human, Engineer and Mentor
 
 - 👯 I’m looking to collaborate
-- ⚡ Fun fact:
+- ⚡ Fun fact: I have skills in 🥊 boxing, 🛼 skating, ♟️chess, 🚴bicycle freestyle and 🏗️ masonry
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-njoro-8abab4210/)
 
 ## 🔭 I'm currently working on...
 
@@ -47,6 +74,7 @@
 
 ## 📈  GitHub Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=principalkelvo&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=principalkelvo&theme=dark)](https://github.com/principalkelvo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=principalkelvo&layout=compact&theme=dark)](https://github.com/principalkelvo)
 
@@ -59,3 +87,5 @@
 [twitter]: https://twitter.com/KelvinPrincipal
 [linkedin]: https://www.linkedin.com/in/kelvin-njoro-8abab4210
 [instagram]: https://www.instagram.com/principalkelvo
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
