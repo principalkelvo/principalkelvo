@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+    <div id="name">
+  <img src="https://github.com/principalkelvo/principalkelvo/blob/main/name.svg" alt="Principal Kelvo"/>
+  </div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kelvin-njoro-8abab4210/">
@@ -15,6 +17,11 @@
   </div>
 
 # Hey there! I'm Kelvin - aka Principal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Principal+KELVO....;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
 ### I'm a Human, Engineer and Mentor
 
@@ -73,10 +80,38 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br />
 
 ## 📈  GitHub Stats
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=principalkelvo&theme=react&border=61dafb&hide_border=true" alt="principalkelvo" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=principalkelvo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=principalkelvo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=principalkelvo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
+<hr>
+
+<!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=principalkelvo&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=principalkelvo&theme=dark)](https://github.com/principalkelvo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=principalkelvo&layout=compact&theme=dark)](https://github.com/principalkelvo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=principalkelvo&layout=compact&theme=dark)](https://github.com/principalkelvo) -->
+
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=principalkelvo&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Socials and connecting:
 
@@ -87,5 +122,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [twitter]: https://twitter.com/KelvinPrincipal
 [linkedin]: https://www.linkedin.com/in/kelvin-njoro-8abab4210
 [instagram]: https://www.instagram.com/principalkelvo
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br>
+<div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
