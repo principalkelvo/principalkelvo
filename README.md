@@ -90,10 +90,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align=center>
   <div align=center>
     <a href="https://github.com/principalkelvo">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=principalkelvo&theme=react&border=61dafb&hide_border=true" alt="principalkelvo" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=principalkelvo&theme=dark&background=000000&border=61dafb&hide_border=true" alt="principalkelvo" />
     </a>
     <a href="https://github.com/principalkelvo" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=principalkelvo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=principalkelvo&show_icons=true&theme=dark&background=000000&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -103,7 +103,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=principalkelvo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=principalkelvo&theme=dark&background=000000&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -117,7 +117,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=principalkelvo&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=principalkelvo&theme=dark&background=000000&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Socials and connecting:
 
