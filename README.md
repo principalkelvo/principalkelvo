@@ -23,6 +23,10 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</h1>
+
 ### I'm a Human, Engineer and Mentor
 
 - 👯 I’m looking to collaborate
@@ -41,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🔭 I'm currently working on...
 
-- A POS system written in JavScript and Python
+- A POS system written in JavaScript and Python
 - Refactoring my old projects
 
 ## 🌱 I'm currently learning about
@@ -114,6 +118,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![trophy](https://github-profile-trophy.vercel.app/?username=principalkelvo&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Socials and connecting:
+
+<!-- Social icons section -->
+<!-- <p align="center">
+  <a href="https://twitter.com/KelvinPrincipal"><img width="32px" alt="PrincipalKelvo | Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/> -->
 
 [<img align="left" alt="PrincipalKelvo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />][twitter]
 [<img align="left" alt="PrincipalKelvo | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
