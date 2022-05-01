@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=principalkelvo&style=flat-square&color=blue" alt=""/>
   </div>
 
-# Hey there! I'm Kelvin - aka Principal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Welcome to Kelvin Njoro's Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Principal+KELVO....;Nice+to+meet+you!&center=true&size=25">
