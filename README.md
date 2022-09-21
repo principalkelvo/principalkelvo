@@ -139,3 +139,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
+### Before you go, I have a **RANDOM JOKE** for you :smile:
+![Am I a Joke to you](https://readme-jokes.vercel.app/api)
