@@ -1,3 +1,4 @@
+## Welcome to Kelvin Njoro's Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/dny99bibe/image/upload/v1693716946/u6pc3hgh1anqzngjertp.jpg" alt="Principal Kelvo"/>
     <div id="name">
@@ -16,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=principalkelvo&style=flat-square&color=blue" alt=""/>
   </div>
 
-## Welcome to Kelvin Njoro's Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 <h1 align="center">
   <a href="https://github.com/principalkelvo">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Principal+KELVO....;Nice+to+meet+you!&center=true&size=25">
@@ -103,9 +104,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=principalkelvo&theme=dark&background=000000&hide_border=true" width="100%"/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=principalkelvo&theme=dark&background=000000&hide_border=true" width="100%"/> -->
 </p>
-
 <hr>
 
 <!-- 
@@ -118,6 +118,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=principalkelvo&theme=dark&background=000000&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Principal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=principalkelvo&theme=gotham&layout=compact)
 
 ### Socials and connecting:
 
@@ -129,8 +130,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br/> -->
 
-[<img align="left" alt="PrincipalKelvo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" />][twitter]
-[<img align="left" alt="PrincipalKelvo | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="PrincipalKelvo | Twitter" width="22px" src="https://i.imgur.com/OXZM1L6.png" />][twitter]
+[<img align="left" alt="PrincipalKelvo | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" alt="PrincipalKelvo | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
 
 [twitter]: https://twitter.com/KelvinPrincipal
