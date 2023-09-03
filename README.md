@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://res.cloudinary.com/dny99bibe/image/upload/v1693716946/u6pc3hgh1anqzngjertp.jpg" alt="Principal Kelvo"/>
     <div id="name">
   <img src="https://github.com/principalkelvo/principalkelvo/blob/main/name.svg" alt="Principal Kelvo"/>
   </div>
@@ -47,12 +47,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 🔭 I'm currently working on...
 
-- A POS system written in JavaScript and Python
+- Total wellness Mental health System written in JavaScript and Python
 - Refactoring my old projects
 
 ## 🌱 I'm currently learning about
 
-- React.js
+- Mobile app development
 - Data Structures and Algorithms
 - Ruby on Rails
 
